@@ -7,7 +7,7 @@ export const Card = () => {
         <img src="https://picsum.photos/id/27/100/200" class="card-img-top img-fluid" alt="Random Image" style={{ width: "290px", height: "300px" }} />
         <div className="card-body">
           <h5 className="card-title">Card title</h5>
-          <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+          <p className="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum vitae similique nulla dolorum voluptas velit magni deleniti voluptatibus, quisquam mollitia. Culpa impedit fuga doloremque beatae, delectus est quod a sapiente?</p>
         </div>
         <div className="card-footer d-flex justify-content-center">
           <a href="#" className="btn btn-primary">Find out more!</a>
@@ -17,7 +17,7 @@ export const Card = () => {
         <img src="https://picsum.photos/id/24/200/300" class="card-img-top img-fluid" alt="Random Image" style={{ width: "290px", height: "300px" }} />
         <div className="card-body">
           <h5 className="card-title">Card title</h5>
-          <p className="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+          <p className="card-text">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempora, at voluptates similique minus nulla facere quos impedit doloremque numquam voluptas eos, harum voluptatem eum quis amet tempore quod quo praesentium?</p>
         </div>
         <div className="card-footer d-flex justify-content-center">
           <a href="#" className="btn btn-primary">Find out more!</a>
@@ -27,7 +27,7 @@ export const Card = () => {
         <img src="https://picsum.photos/id/11/200/300" class="card-img-top img-fluid" alt="Random Image" style={{ width: "290px", height: "300px" }} />
         <div className="card-body">
           <h5 className="card-title">Card title</h5>
-          <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+          <p className="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, non ab eum nesciunt dolor porro possimus assumenda? Ad earum, numquam fugit tempore consectetur aliquam, corrupti, cum fuga omnis reiciendis placeat?</p>
         </div>
         <div className="card-footer d-flex justify-content-center">
           <a href="#" className="btn btn-primary">Find out more!</a>
@@ -37,7 +37,7 @@ export const Card = () => {
         <img src="https://picsum.photos/id/15/200/300" class="card-img-top img-fluid" alt="Random Image" style={{ width: "290px", height: "300px" }} />
         <div className="card-body">
           <h5 className="card-title">Card title</h5>
-          <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+          <p className="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum voluptatem magni odio, ratione cupiditate debitis perspiciatis provident ut necessitatibus exercitationem reprehenderit! At, soluta minima atque earum consectetur molestias recusandae ad.</p>
         </div>
         <div className="card-footer d-flex justify-content-center">
           <a href="#" className="btn btn-primary">Find out more!</a>
