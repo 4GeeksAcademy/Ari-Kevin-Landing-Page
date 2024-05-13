@@ -4,15 +4,22 @@ import React from "react";
 import rigoImage from "../../img/rigo-baby.jpg";
 import Jumbotron from "./Jumbotron";
 import { Footer } from "./Footer";
+import { Navbar } from "./Navbar";
+import { Card } from "./Card.";
 
 
 //create your first component
 const Home = () => {
 	return (
 		<>
-			<Jumbotron/>
+			<Navbar />
+			<div className="container-fluid jumbo-container">
+                <Jumbotron />
 
-			<Footer/>
+                <Card />
+            </div>
+
+			<Footer />
 		</>
 	)
 }
