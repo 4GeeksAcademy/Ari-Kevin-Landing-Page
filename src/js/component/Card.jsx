@@ -2,7 +2,7 @@ import React from "react";
 
 export const Card = () => {
   return (
-    <div className="card-group p-4">
+    <div className="card-group p-5">
       <div className="card p-4">
         <img src="https://picsum.photos/id/27/100/200" class="card-img-top img-fluid" alt="Random Image" style={{ width: "290px", height: "300px" }} />
         <div className="card-body">
